@@ -1,3 +1,3 @@
-## Home Automation Technology
+# Home Automation Technology
 
  [privacy](PRIVACY.md)
