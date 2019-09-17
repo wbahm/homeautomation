@@ -1,1 +1,7 @@
 theme: minima
+header_pages:
+  - index.md
+  - ListOfMedia.md
+  - IP.md
+  - FreedomOfSpeech.md
+  - PRIVACY.md
