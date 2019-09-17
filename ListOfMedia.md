@@ -1,6 +1,6 @@
 ---
 title: Examples of Smart Home Technology in Media
-layout: home
+layout: page
 ---
 
 
