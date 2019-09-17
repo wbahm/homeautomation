@@ -1,4 +1,8 @@
-# Examples of Smart Home Technology in Media
+---
+title: Examples of Smart Home Technology in Media
+layout: home
+---
+
 
 - Star Trek
 - Iron Man
