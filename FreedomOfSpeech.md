@@ -6,7 +6,7 @@ layout: page
 
 ### Paragraph 1
 
-### Paragraph 2
+In February of 2017, police in Arkansas attempted to seize 2 days worth of voice recordings captured by an Amazon Alexa [4], claiming that it could be important in proving the murder of Victor Collins. Collin’s friend, James Andrew Bates, was the prime suspect in the murder trial and had an Alexa in his home [3]. Lawyers at Amazon motioned for the judge to throw out the recordings [1], arguing that they were an infringement on First Amendment rights. They stated that, "’Such government demands inevitably chill users from exercising their First Amendment rights to seek and receive information and expressive content in the privacy of their own home… conduct which lies at the core of the Constitution.’” [4] 
 
 
 ### References
