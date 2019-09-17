@@ -7,3 +7,7 @@ For example, the Amazon Echo product is designed to record audio from various ty
 
 ### Public Perception
     The public perception of smart speakers is significantly influenced by privacy concerns.  In a 2018 study around half of the interviewed people who were not using a smart speaker were doing so out of privacy related concerns[x].  Even among users of the technology over 60% of those surveyed believed that they were trading their privacy for the convince of using the speaker[x].  The same study also found that despite the high quantity of users who felt they were sacrificing privacy users tended not to make use of the privacy enhancing features, such as privacy controls and a mute button, found on the device[x].  This would seem to indicate that while privacy is a major concern in a users choice to purchase a device, once a device has been purchased privacy concerns have very little effect on how the user interacts with the device. 
+    
+
+### Sources
+1. Lau, Josephine, et al. “Alexa, Are You Listening?” Proceedings of the ACM on Human-Computer Interaction, vol. 2, no. CSCW, Jan. 2018, pp. 1–31., doi:10.1145/3274371.
