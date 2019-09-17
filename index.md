@@ -1,5 +1,6 @@
 ---
 title: Topics
+layout: default
 ---
 ### [Freedom of Speech](FreedomOfSpeech.md)
 ### [Intellectual Property](IP.md)
