@@ -1,1 +1,4 @@
-# Intellectual Property
+---
+title: Intellectual Property
+layout: page
+---

@@ -1,4 +1,7 @@
-# Freedom of Speech
+---
+title: Freedom of Speech
+layout: page
+---
 
 
 ### Paragraph 1
