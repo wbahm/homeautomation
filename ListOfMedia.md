@@ -1,5 +1,5 @@
 ---
-title: Examples of Smart Home Technology in Media
+title: Examples in Media
 layout: page
 ---
 
