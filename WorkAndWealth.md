@@ -6,4 +6,4 @@ All of the various smart home technologies, including speakers, are designed to 
 
 
 ### References
-1. https://www.sciencedirect.com/science/article/pii/S1959031814000335
+1. Bouakaz, S., Vacher, M., Chaumon, M.-E. B., Aman, F., Bekkadja, S., Portet, F., … Chevalier, T. (2014). CIRDO: Smart companion for helping elderly to live at home for longer. Irbm, 35(2), 100–108. doi: 10.1016/j.irbm.2014.02.011
