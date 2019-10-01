@@ -3,6 +3,9 @@ title: Examples in Media
 layout: page
 ---
 
+# Iron Man (2008)
+
+![J.A.R.V.I.S. overlay in Tony Stark](/_assets/jarvis.png) In Iron Man Tony Stark has a smart assistant system named J.A.R.V.I.S. (Just A Rather Very Intelligent System) J.A.R.V.I.S. is initially just a very advanced voice assistant that allows Stark to speak to interact with the computer systems controlling his house. While J.A.R.V.I.S. is very integrated into every part of the house and at one point Stark is even woken after a one night stand by J.A.R.V.I.S. talking to him, the movie never presents the technology in a way that would raise privacy concerns or make people mistrust their smart home assistants.
 
 - Star Trek
 - Iron Man
