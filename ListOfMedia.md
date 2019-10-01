@@ -11,7 +11,7 @@ Computer resembles many features similar to Amazon's Alexa. Same features of hom
 
 Her involves a man named Theodore who gets an operating system upgrade that includes an AI virtual assistant. He gives the AI a female voice and names it Samantha, and has frequent discussions about life. They eventually start talking about relationships, and start a relationship of their own, which helps out in his writing career. She later informs him that she and the other AIs are leaving for a space outside of the physical world, and Theodore moves on with a real-world relationship. This movie is an interesting perspective on a home assistant actually evolving and becoming more like a real person. This could be a possible avenue of advancement of smart home and AI technology in the future.
 
-# Bladerunner 2049
+# Bladerunner 2049 (2017)
 
 Bladerunner 2049 features a “holographic companion” named Joi available for purchase that acts as a home assistant and virtual romantic partner to the protagonist, K. She has similar functions to those of Amazon Alexa and Google Home, but her intelligence and physical presence extend much further than today’s technology. This may be an indication of the direction this type of technology will take in the future, replacing the more obviously robotic and artificial smart speakers with beings that can more closely emulate humans.
 
