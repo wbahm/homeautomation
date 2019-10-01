@@ -3,7 +3,7 @@ title: Topics
 layout: home
 ---
 
-# [Presentation](https://wpi0-my.sharepoint.com/:p:/g/personal/wgbahm_wpi_edu/ERcCUfD-tV1KuRyUXHmWgDcBlyeZDLuPXupP0tvAQWxQGQ?e=1mQ6G2)
+# [Presentation](https://wpi0-my.sharepoint.com/:p:/g/personal/wgbahm_wpi_edu/ERcCUfD-tV1KuRyUXHmWgDcB75idnH5IsdCm7kSgF8sFzg?e=qPpB8N)
 
 # [Freedom of Speech](FreedomOfSpeech.md)
 
