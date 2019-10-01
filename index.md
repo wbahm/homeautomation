@@ -1,5 +1,5 @@
 ---
-title: Topics
+title: Smart Speakers
 layout: home
 ---
 
