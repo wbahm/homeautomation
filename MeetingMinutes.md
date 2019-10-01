@@ -3,7 +3,9 @@ title: Meeting Minutes
 layout: page
 ---
 
-September 16th • Created GitHub repository and github pages site
+September 16th
+
+• Created GitHub repository and github pages site
 
 • Created website entries for initial topics
 
