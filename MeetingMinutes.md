@@ -3,7 +3,7 @@ title: Meeting Minutes
 layout: page
 ---
 
-September 16th
+# September 16th
 
 • Created GitHub repository and github pages site
 
@@ -19,7 +19,7 @@ o    Intellectual Property – Wyatt
 
 • Worked on specific website formatting issues
 
-September 23rd
+# September 23rd
 
 • Did the other topics and drafted presentation
 
@@ -33,7 +33,7 @@ o    Work and Wealth – Mir and Adam
 
 • Created draft of presentation and looked for relevant images
 
-September 30th
+# September 30th
 
 • Worked on examples in media
 
